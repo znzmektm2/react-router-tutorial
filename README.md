@@ -1,4 +1,6 @@
 # react-router
+리액트를 다루는 기술 
+
 - react-router-dom 라이브러리 설치
 - NODEPATH 설정
 - 라우트 설정
